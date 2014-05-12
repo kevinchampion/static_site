@@ -10,3 +10,11 @@ core = 7.x
 ; Libraries.
 
 
+
+; Custom modules
+
+projects[static][type] = "module"
+projects[static][subdir] = "kevinchampion"
+projects[static][download][type] = "git"
+projects[static][download][url] = "https://github.com/kevinchampion/static.git"
+projects[static][download][tag] = "7.x-1.x"
