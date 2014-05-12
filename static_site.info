@@ -1,0 +1,11 @@
+name = Static Site
+description = Installation profile for Static Site install.
+version = 7.x-1.x
+core = 7.x
+hidden = FALSE
+
+; Dependencies contrib
+
+
+
+

@@ -1,0 +1,18 @@
+<?php
+/**
+ * @file
+ */
+
+/**
+ * Implements hook_install().
+ */
+function static_site_install() {
+  // Empty.
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function static_site_uninstall() {
+  // Empty.
+}
