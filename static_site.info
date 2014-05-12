@@ -6,6 +6,8 @@ hidden = FALSE
 
 ; Dependencies contrib
 
-
+dependencies[] = admin_menu
+dependencies[] = libraries (2.x)
+dependencies[] = static
 
 
