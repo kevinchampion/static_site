@@ -22,7 +22,7 @@ projects[pathauto][version] = "1.2"
 ; Custom modules
 
 projects[static][type] = "module"
-projects[static][subdir] = "kevinchampion"
+projects[static][subdir] = "reusable"
 projects[static][download][type] = "git"
 projects[static][download][url] = "https://github.com/kevinchampion/static.git"
 projects[static][download][branch] = "7.x-1.x"
